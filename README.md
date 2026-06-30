@@ -15,7 +15,7 @@ Here is the complete view of the network layout. All interfaces, gateways, and l
 
 I have recorded a short presentation video demonstrating the network layout, configuration steps, and connectivity testing.
 
-➡️ [**Click Here to Watch the Project Video Presentation**](اضع_رابط_الفيديو_هنا) 👈
+➡️ [**Click Here to Watch the Project Video Presentation**](https://github.com/Nuha56/Cisco-PacketTracer-DualStack-Routing/blob/main/Lab-demo-Dualstack.mp4) 👈
 
 ---
 
